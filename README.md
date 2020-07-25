@@ -1,5 +1,5 @@
 ## hello im shayna (she/her) and im a cs student at [illinois](https://github.com/illinois) and sde intern at [aws](https://github.com/awslabs) :)
----
+
 **logic problem**: a puzzle in which the answer can be deduced from a given set of premises.
 
 ive always liked documenting and solving logic problems! some of my interests include cybersecurity, open source, and chess.
