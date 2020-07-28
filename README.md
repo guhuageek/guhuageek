@@ -27,4 +27,4 @@ ive always liked documenting and solving logic problems! some of my interests in
 - [linkedin](https://www.linkedin.com/in/shayna-provine/)
 - [twitter](https://twitter.com/sheepshoop)
 
-[my resume](https://github.com/sprovine/sprovine/blob/master/Shayna%20Provine%20Resume%202020.pdf)
+ask me for my resume!
