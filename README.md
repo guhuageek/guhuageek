@@ -8,7 +8,7 @@ ive always liked documenting and solving logic problems! some of my interests in
 ### im currently working on:
 - **aws crypto tools (core libraries)** integrating code coverage metrics for the [aws encryption sdk](https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/introduction.html).
 - **[built by girls at uiuc](https://www.facebook.com/BuiltByGirlsUIUC)** as founder and president of a chapter of the [national organization](https://www.builtbygirls.com/) dedicated to preparing female leaders for careers in technology.
-- **[streaming](https://www.twitch.tv/robloxbabe2000)** chess and sharing my love and knowledge of the game with the community. fun fact: im rank 100 in the country for girls under 21!
+- **[streaming](https://www.twitch.tv/shaynabegonia)** chess and sharing my love and knowledge of the game with the community. fun fact: im rank 100 in the country for girls under 21!
 - **[documenting](https://drive.google.com/drive/folders/1GsTGTIvQ_MATyW99rFxuyeN373b769Ka?usp=sharing)** the things i do to help both me and (hopefully) whoever else happens across this corner of the internet! especially when it involves [shibas](https://www.youtube.com/watch?v=6qoHU2EmZ18)!
 
 ### im currently learning:
