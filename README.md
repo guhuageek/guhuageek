@@ -25,6 +25,6 @@ ive always liked documenting and solving logic problems! some of my interests in
 
 ### how to reach me:
 - [linkedin](https://www.linkedin.com/in/shayna-provine/)
-- [twitter](https://twitter.com/sheepshoop)
+- [twitter](https://twitter.com/shaynabegonia)
 
 ask me for my resume!
