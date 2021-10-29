@@ -1,4 +1,4 @@
-## hello im shayna (she/her) and im a cs student at illinois and sde intern at amazon :)
+## hello im shay (she/her) and im a cs student at illinois and sde intern at amazon :)
 
 **logic problem**: a puzzle in which the answer can be deduced from a given set of premises.
 
